@@ -1,0 +1,25 @@
+.aa{
+     height: 40px;
+    
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+.bb{
+     margin-left: 1100px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    gap: 9px
+}
+.rrr{
+    text-decoration: none;
+    color: white;
+}
+.goo{
+    margin-left: 10px;
+    color: white;
+}

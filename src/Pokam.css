@@ -1,0 +1,44 @@
+.az{
+    height: 700px;
+    background-image: url(https://wallpapershome.com/images/pages/ico_h/27418.jpg);
+    border: 1px solid black;
+}
+.zz{
+    text-align: center;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+.bz{
+    height: 270px;
+    width: 160px;
+    background-color:whitesmoke;
+    border: 1px solid black;
+    
+   justify-content: center;
+   align-items: center;
+   margin-top: 50px;
+  text-align: center;
+}
+
+.gg{
+    display: flex;
+    height: 100px;
+    width: 50px;
+   margin-left: 27px;
+   margin-top: 5px;
+    
+    
+}
+.go{
+    display: flex;
+    height: 100px;
+    width: 50px;
+   margin-left: 39px;
+   margin-top: 5px;
+}
+.hz{
+    color: blue;
+}

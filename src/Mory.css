@@ -1,0 +1,50 @@
+.yy{
+     height: 700px;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoh_Uf-ZQYDYQ614wdRZzuCb68wtr3pYKor_3onbrB6w&s=10);
+    border: 1px solid black;
+}
+.ey{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+
+.ay{
+    height: 150px;
+    width: 200px;
+    background-color:white ;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 50px;
+}
+.vk{
+     height: 300px;
+    width: 290px;
+   display: flex;
+   margin-left: 800px;
+   margin-bottom: 30px;
+
+}
+.ux{
+    color: blue;
+}
+.ck{
+    height: 40px;
+    width: 20px;
+    margin-top: 2px;
+}
+.cv{
+    height: 40px;
+    width: 30px;
+    margin-top: 2px;
+}
+.ay:hover{
+    background-color:red;
+    box-shadow: 10px 20px 30px;
+    transform: translatey(-15px);
+}
+
+   
